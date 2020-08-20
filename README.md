@@ -1,5 +1,6 @@
-### Hello Interwebs! 
+### Hello Interwebs!
 It is me, José. I am a software developer, on ocassion, with a passion for security! I love breaking and help others understand how to fix things. I love to drink coffee (lol) and skateboard. 
+
 Follow me on [twitter](https://twitter.com/joseecorella) for some dank memes.
 
 <!--
