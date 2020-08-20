@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Interwebs! It is me, José. I am a software developer with a passion for security! I love breaking and help others understand how to fix things. I love to drink coffee (lol) and skateboard.
 
 <!--
 **josecorella/josecorella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
