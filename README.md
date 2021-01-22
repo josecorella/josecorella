@@ -7,7 +7,7 @@ I love breaking things and help others understand how to fix things.
 
 I love to drink coffee (lol) ☕️
 
-I love to skateboard.; although I am horrible at it 🛹
+I love to skateboard, although I am horrible at it 🛹
 
 Slowly taking over the 🌎 one cup of coffee at a time. 
 
